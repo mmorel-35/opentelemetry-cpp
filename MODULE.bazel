@@ -1,0 +1,6 @@
+module(
+    name = "io_opentelemetry_cpp",
+    version = "0.0.0",
+)
+
+# -- bazel_dep definitions -- #

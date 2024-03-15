@@ -52,6 +52,7 @@
 /bazel-*
 /plugin
 /build
+MODULE.bazel.lock
 
 tags
 .cache/clangd/*
